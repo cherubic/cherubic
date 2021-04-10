@@ -1,6 +1,6 @@
 ### Hi 👋
 
-- 🔭 I’m currently working on China
+- 🔭 I’m currently working on Chinese company
 - 🌱 I’m currently learning python, golang and kubernetes.
 - 🤔 I’m looking for help with learning
 - 📫 How to reach me: <copyrightcherubic@gmail.com>
