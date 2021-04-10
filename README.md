@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi 👋
+
+- 🔭 I’m currently working on China
+- 🌱 I’m currently learning python, golang and kubernetes.
+- 🤔 I’m looking for help with learning
+- 📫 How to reach me: <copyrightcherubic@gmail.com>
+
 
 <!--
 **cherubic/cherubic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
